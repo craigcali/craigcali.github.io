@@ -11,7 +11,7 @@ My GitHub page is http://github.com/craigcali.
 * Lab 1
 
     Lab 1, part 1 was a favorite because it is a nostalgic piece. This lab
-    is the first lab I've ever done ever since attending this university 
+    is the first lab I've ever done since attending this university 
     and I hold it dear to me. I learned how to write a function displaying
     text in a program, not to mention the classic "Hello World" that every
     coder knows about.
@@ -28,6 +28,6 @@ My GitHub page is http://github.com/craigcali.
 
     Lab 6, part 1 was a favorite because I grew up with the Mad Libs books
     as a kid. The concept of creating a program that collects string input
-    from the user to create a sandwhich is interesting. I can visualize 
+    from the user to create a sandwich is interesting. I can visualize 
     how more enhanced programs could be made for apps or websites that 
-    handle food orders such as UberEats or DoorDash. 
+    handle food orders such as Uber Eats or DoorDash. 
